@@ -1,4 +1,4 @@
--e git+https://github.com/Dhirendra2003/python-sql-data-analytics.git@0c6f397c646bc25b630e7afaa73618908d0c7714#egg=mlproject
+-e git+https://github.com/Dhirendra2003/python-sql-data-analytics.git@940d5f621eb633b3baea71d80de3ee5213c51849#egg=mlproject
 numpy==2.1.1
 pandas==2.2.3
 pipi==1.0.1
